@@ -13,12 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Pavel19740404/ajs.git"
   },
-  "au "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
-  },
-  "scripts": {
-    "build": "webpack --mode production"
-  },thor": "",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Pavel19740404/ajs/issues"
